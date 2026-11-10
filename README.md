@@ -16,3 +16,4 @@ Three levels, plus an endless mode with an online leaderboard.
 Requires Android 7.1 or later on a 64-bit (arm64) device.
 
 Ranet Rebase
+Martin Linask
